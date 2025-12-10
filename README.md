@@ -17,9 +17,4 @@ A Python console application to track your daily expenses, view summaries, and v
 - matplotlib
 - CSV for data storage
 
-## How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone <your_repo_link>
-   cd CodeIntern_Python_ExpenseTracker
